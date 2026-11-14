@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Dhruv Patel - Full-stack developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/DHRUV-PATEL1937/DHRUV-PATEL1937/main/assets/header.svg?v=2" alt="Dhruv Patel - Full-stack developer" width="100%" />
 </p>
 
 <p align="center">
