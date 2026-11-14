@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DHRUV-PATEL1937/DHRUV-PATEL1937/main/assets/header.svg?v=2" alt="Dhruv Patel - Full-stack developer" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/DHRUV-PATEL1937/DHRUV-PATEL1937@2caa3c4/assets/header.svg" alt="Dhruv Patel - Full-stack developer" width="100%" />
 </p>
 
 <p align="center">
@@ -77,17 +77,17 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DHRUV-PATEL1937/DHRUV-PATEL1937/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DHRUV-PATEL1937/DHRUV-PATEL1937/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/DHRUV-PATEL1937/DHRUV-PATEL1937/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/DHRUV-PATEL1937/DHRUV-PATEL1937@output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/DHRUV-PATEL1937/DHRUV-PATEL1937@output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://cdn.jsdelivr.net/gh/DHRUV-PATEL1937/DHRUV-PATEL1937@output/github-snake-dark.svg" />
   </picture>
 </p>
 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DHRUV-PATEL1937&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUV-PATEL1937&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=DHRUV-PATEL1937&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=DHRUV-PATEL1937&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
