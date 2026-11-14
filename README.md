@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Dhruv Patel 👋</h1>
+<p align="center">
+  <img src="assets/header.svg" alt="Dhruv Patel - Full-stack developer" width="100%" />
+</p>
 
 <p align="center">
   <b>BCA student at CHARUSAT · Full-stack developer in the making</b><br/>
@@ -70,6 +72,16 @@
 - [TMHSDigital/Static_Chess #73](https://github.com/TMHSDigital/Static_Chess/pull/73): fix for a horizontal scrollbar in narrow windows (CSS)
 
 ---
+
+### 🐍 Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DHRUV-PATEL1937/DHRUV-PATEL1937/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DHRUV-PATEL1937/DHRUV-PATEL1937/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/DHRUV-PATEL1937/DHRUV-PATEL1937/output/github-snake.svg" />
+  </picture>
+</p>
 
 ### 📊 GitHub stats
 
