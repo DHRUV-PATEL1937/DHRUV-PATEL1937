@@ -16,7 +16,7 @@
 ### 🚀 About me
 
 - 🎓 Studying BCA at **CHARUSAT**, based in Nadiad, Gujarat
-- 🔭 Currently building **Placeble** (placement preparation platform) and **Harvest** (an ERP with a React client and an Express API)
+- 🔭 Currently building **Harvest** (an ERP with a React client and an Express API)
 - 🤝 Contributing to client projects in the **techend-dev** organisation and to open source
 - 🌱 Learning: system design, testing, and shipping production-ready full-stack apps
 - 💡 Interested in full-stack development, AI-powered apps and IoT
