@@ -66,10 +66,11 @@
 | [techend-dev/schoolchamps-admin-client](https://github.com/techend-dev/schoolchamps-admin-client) | 5 | Super-admin dashboard and school analytics, attachment validation, certificate flow |
 | [techend-dev/schoolchamps.in](https://github.com/techend-dev/schoolchamps.in) | 2 | Brand logo in navbar and footer, Privacy Policy and Terms pages |
 | [techend-dev/grovia](https://github.com/techend-dev/grovia) | 2 | 3D agentic-AI website redesign, responsive scaling fixes |
+| [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | 1 | Renamed leftover `onetab-btn` CSS classes to `pf-btn` ([#74](https://github.com/Tektrix/pinfold/pull/74)), verified with identical computed styles |
 
-**Open pull requests**
+**Also helped with**
 
-- [TMHSDigital/Static_Chess #73](https://github.com/TMHSDigital/Static_Chess/pull/73): fix for a horizontal scrollbar in narrow windows (CSS)
+- [TMHSDigital/Static_Chess #71](https://github.com/TMHSDigital/Static_Chess/issues/71): diagnosed a horizontal scrollbar on narrow screens; the maintainer fixed it upstream and credited the report
 
 ---
 
